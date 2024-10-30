@@ -12,8 +12,8 @@ Here on GitHub, my main **public side-project repositories** are browser extensi
 - My business website: https://worldwidewest.co
 - Other places to find me: https://linktr.ee/rthaut
 
-[twitter-badge-url]: https://img.shields.io/twitter/follow/rthaut?color=blue&logo=twitter&style=for-the-badge
-[twitter-link-url]: https://twitter.com/rthaut
+[twitter-badge-url]: https://img.shields.io/twitter/follow/rthaut?color=blue&logo=x&style=for-the-badge
+[twitter-link-url]: https://x.com/rthaut
 
 [linkedin-badge-url]: https://img.shields.io/badge/Ryan%20Thaut-Connect-blue?logo=linkedin&style=for-the-badge
 [linkedin-link-url]: https://linkedin.com/in/rthaut
